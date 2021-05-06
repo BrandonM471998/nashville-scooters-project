@@ -23,9 +23,18 @@ Data Sources: All data for the project was provided by NSS
 
 5. During this step, I experiment with different charts I can use to visualize the scooter charges for each company
 
+
+![Plots](./assets/plots_experiment.jpg)
+
 6. In this step, I break out each company into a separate dataframe for each month using `.loc` and plot a histogram, but it seems to be too cluttered
+
+
+![Crowded](./assets/crowded.jpg)
 
 7. After some experimentation, I found a way to plot every company by scooter charge level for each month, with the y-axis showing the percentage of all scooters by company, and the x-axis showing the battery level percent of all scooters by company
 
-# Presentation
-[Presentation](presentation/nashville_scooter_presentation.pdf)
+
+![May](./assets/may_chart.jpg)
+
+# PowerPoint Presentation
+[PowerPoint Presentation](presentation/nashville_scooter_presentation.pdf)
