@@ -1,7 +1,7 @@
 # nashville-scooters-project
 
 # Introduction
-For this project, our team was assigned with finding the idea density of scooters for the Nashville Metro area. Three rides (of 3 meters or more) per day per scooter is the baseline for ridership goals. For this project, our team used Python for data analysis and Powerpoint for presenting our findings.
+For this project, our team was assigned with finding the ideal density of scooters for the Nashville Metro area. Three rides (of 3 meters or more) per day per scooter is the baseline for ridership goals. For this project, our team used Python for data analysis and Powerpoint for presenting our findings.
 
 I was assigned with finding and visualizing the charge levels of all scooters broken out by each company, for each month covered in the dataset. There were a total of seven companies in the dataset.
 
