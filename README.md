@@ -10,7 +10,7 @@ Data Sources: All data for the project was provided by NSS
 # Table of Contents
 * [Introduction](#Introduction)
 * [Python Walkthrough](#Python-Walkthrough)
-* [Presentation](#Presentation)
+* [PowerPoint Presentation](#PowerPoint-Presentation)
 
 # Python Walkthrough
 1. The first step in the project is to install all the necessary packages using `import`
